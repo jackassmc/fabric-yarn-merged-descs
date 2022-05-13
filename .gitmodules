@@ -1,0 +1,3 @@
+[submodule "minecraft-jars-java-descriptions"]
+	path = minecraft-jars-java-descriptions
+	url = https://github.com/jackassmc/minecraft-jars-java-descriptions
