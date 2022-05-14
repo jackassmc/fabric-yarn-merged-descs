@@ -108,4 +108,8 @@ class Index(BaseModel):
 
         return dirty
 
-Index.new().save()
+
+if __name__ == "__main__":
+    index = Index.load()
+    if index.update():
+        index.save()
