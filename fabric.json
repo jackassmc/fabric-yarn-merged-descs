@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-21T12:35:53.958722+00:00",
+  "timestamp": "2022-06-21T18:17:53.293891+00:00",
   "yarn": {
     "22w19a": {
       "version_file_id": "22w19a",
@@ -1390,8 +1390,8 @@
     "22w24a": {
       "version_file_id": "22w24a",
       "separator": "+build.",
-      "build": 4,
-      "fabric_name": "22w24a+build.4"
+      "build": 5,
+      "fabric_name": "22w24a+build.5"
     }
   },
   "sorted_version_file_ids": [
