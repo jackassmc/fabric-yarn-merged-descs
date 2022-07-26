@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-25T19:41:47.282034+00:00",
+  "timestamp": "2022-07-26T17:39:40.619717+00:00",
   "yarn": {
     "22w19a": {
       "version_file_id": "22w19a",
@@ -1440,6 +1440,12 @@
       "separator": "+build.",
       "build": 7,
       "fabric_name": "1.19.1-rc2+build.7"
+    },
+    "1.19.1-rc3": {
+      "version_file_id": "1.19.1-rc3",
+      "separator": "+build.",
+      "build": 2,
+      "fabric_name": "1.19.1-rc3+build.2"
     }
   },
   "sorted_version_file_ids": [
@@ -1682,6 +1688,7 @@
     "1.19.1-pre4",
     "1.19.1-pre5",
     "1.19.1-pre6",
-    "1.19.1-rc2"
+    "1.19.1-rc2",
+    "1.19.1-rc3"
   ]
 }
