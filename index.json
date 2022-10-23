@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-23T18:36:31.340077+00:00",
+  "timestamp": "2022-10-23T19:00:15.221947+00:00",
   "versions": {
     "22w19a": {
       "version_id": "22w19a",
@@ -6375,13 +6375,13 @@
       "version_id": "22w42a",
       "version_file_id": "22w42a",
       "version_release_time": "2022-10-19T09:34:22+00:00",
-      "yarn_build": 34,
+      "yarn_build": 36,
       "jars": {
         "client": {
           "version_id": "22w42a",
           "version_file_id": "22w42a",
           "version_release_time": "2022-10-19T09:34:22+00:00",
-          "yarn_build": 34,
+          "yarn_build": 36,
           "jar_key": "client",
           "path": "mappings/22w42a-client.json",
           "url": "https://jackassmc.github.io/fabric-yarn-merged-descs/mappings/22w42a-client.json"
@@ -6390,7 +6390,7 @@
           "version_id": "22w42a",
           "version_file_id": "22w42a",
           "version_release_time": "2022-10-19T09:34:22+00:00",
-          "yarn_build": 34,
+          "yarn_build": 36,
           "jar_key": "server",
           "path": "mappings/22w42a-server.json",
           "url": "https://jackassmc.github.io/fabric-yarn-merged-descs/mappings/22w42a-server.json"
