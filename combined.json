@@ -1,7 +1,7 @@
 {
-  "timestamp": "2022-11-23T02:48:38.608336+00:00",
+  "timestamp": "2022-11-23T08:18:55.689314+00:00",
   "jar_descs_timestamp": "2022-11-22T17:16:23.153505+00:00",
-  "fabric_timestamp": "2022-11-23T02:48:34.024340+00:00",
+  "fabric_timestamp": "2022-11-23T08:18:45.239703+00:00",
   "combined": {
     "22w19a": {
       "version_id": "22w19a",
@@ -7233,8 +7233,8 @@
         "version_file_id": "22w46a",
         "version_release_time": "2022-11-16T13:32:50+00:00",
         "separator": "+build.",
-        "build": 9,
-        "fabric_name": "22w46a+build.9"
+        "build": 10,
+        "fabric_name": "22w46a+build.10"
       },
       "jars": {
         "client": {
@@ -7262,8 +7262,8 @@
         "version_file_id": "1.19.3-pre1",
         "version_release_time": "2022-11-22T13:59:37+00:00",
         "separator": "+build.",
-        "build": 5,
-        "fabric_name": "1.19.3-pre1+build.5"
+        "build": 6,
+        "fabric_name": "1.19.3-pre1+build.6"
       },
       "jars": {
         "client": {
