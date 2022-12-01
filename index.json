@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-12-01T08:52:18.062230+00:00",
+  "timestamp": "2022-12-01T16:46:37.149384+00:00",
   "versions": {
     "22w19a": {
       "version_id": "22w19a",
@@ -6576,6 +6576,32 @@
           "jar_key": "server",
           "path": "mappings/1.19.3-pre3-server.json",
           "url": "https://jackassmc.github.io/fabric-yarn-merged-descs/mappings/1.19.3-pre3-server.json"
+        }
+      }
+    },
+    "1.19.3-rc1": {
+      "version_id": "1.19.3-rc1",
+      "version_file_id": "1.19.3-rc1",
+      "version_release_time": "2022-12-01T13:45:18+00:00",
+      "yarn_build": 1,
+      "jars": {
+        "client": {
+          "version_id": "1.19.3-rc1",
+          "version_file_id": "1.19.3-rc1",
+          "version_release_time": "2022-12-01T13:45:18+00:00",
+          "yarn_build": 1,
+          "jar_key": "client",
+          "path": "mappings/1.19.3-rc1-client.json",
+          "url": "https://jackassmc.github.io/fabric-yarn-merged-descs/mappings/1.19.3-rc1-client.json"
+        },
+        "server": {
+          "version_id": "1.19.3-rc1",
+          "version_file_id": "1.19.3-rc1",
+          "version_release_time": "2022-12-01T13:45:18+00:00",
+          "yarn_build": 1,
+          "jar_key": "server",
+          "path": "mappings/1.19.3-rc1-server.json",
+          "url": "https://jackassmc.github.io/fabric-yarn-merged-descs/mappings/1.19.3-rc1-server.json"
         }
       }
     }
