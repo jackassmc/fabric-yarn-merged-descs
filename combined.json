@@ -1,7 +1,7 @@
 {
-  "timestamp": "2023-04-27T23:13:34.624226+00:00",
+  "timestamp": "2023-04-28T11:56:53.357001+00:00",
   "jar_descs_timestamp": "2023-04-26T15:12:53.293433+00:00",
-  "fabric_timestamp": "2023-04-27T23:13:28.868335+00:00",
+  "fabric_timestamp": "2023-04-28T11:56:48.330403+00:00",
   "combined": {
     "22w19a": {
       "version_id": "22w19a",
@@ -7987,8 +7987,8 @@
         "version_file_id": "23w17a",
         "version_release_time": "2023-04-26T12:09:48+00:00",
         "separator": "+build.",
-        "build": 7,
-        "fabric_name": "23w17a+build.7"
+        "build": 8,
+        "fabric_name": "23w17a+build.8"
       },
       "jars": {
         "client": {
