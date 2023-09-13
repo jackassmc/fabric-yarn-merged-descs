@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-12T14:56:33.178307+00:00",
+  "timestamp": "2023-09-13T17:11:49.332440+00:00",
   "versions": {
     "22w19a": {
       "version_id": "22w19a",
@@ -7668,6 +7668,32 @@
           "jar_key": "server",
           "path": "mappings/1.20.2-pre3-server.json",
           "url": "https://jackassmc.github.io/fabric-yarn-merged-descs/mappings/1.20.2-pre3-server.json"
+        }
+      }
+    },
+    "1.20.2-pre4": {
+      "version_id": "1.20.2-pre4",
+      "version_file_id": "1.20.2-pre4",
+      "version_release_time": "2023-09-13T15:06:51+00:00",
+      "yarn_build": 1,
+      "jars": {
+        "client": {
+          "version_id": "1.20.2-pre4",
+          "version_file_id": "1.20.2-pre4",
+          "version_release_time": "2023-09-13T15:06:51+00:00",
+          "yarn_build": 1,
+          "jar_key": "client",
+          "path": "mappings/1.20.2-pre4-client.json",
+          "url": "https://jackassmc.github.io/fabric-yarn-merged-descs/mappings/1.20.2-pre4-client.json"
+        },
+        "server": {
+          "version_id": "1.20.2-pre4",
+          "version_file_id": "1.20.2-pre4",
+          "version_release_time": "2023-09-13T15:06:51+00:00",
+          "yarn_build": 1,
+          "jar_key": "server",
+          "path": "mappings/1.20.2-pre4-server.json",
+          "url": "https://jackassmc.github.io/fabric-yarn-merged-descs/mappings/1.20.2-pre4-server.json"
         }
       }
     }
