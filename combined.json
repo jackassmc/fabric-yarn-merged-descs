@@ -1,7 +1,7 @@
 {
-  "timestamp": "2023-11-25T05:36:11.788714+00:00",
-  "jar_descs_timestamp": "2023-11-22T15:16:04.758768+00:00",
-  "fabric_timestamp": "2023-11-25T05:36:08.087793+00:00",
+  "timestamp": "2023-11-27T16:36:09.218770+00:00",
+  "jar_descs_timestamp": "2023-11-27T16:16:10.058406+00:00",
+  "fabric_timestamp": "2023-11-27T16:36:06.004281+00:00",
   "combined": {
     "22w19a": {
       "version_id": "22w19a",
@@ -8961,6 +8961,35 @@
           "version_release_time": "2023-11-22T12:21:26+00:00",
           "jar_key": "server",
           "jar_sha1_meta": "5a76da0ae88eee28ab4c0fa2ffabb837a4572398"
+        }
+      }
+    },
+    "1.20.3-pre3": {
+      "version_id": "1.20.3-pre3",
+      "version_file_id": "1.20.3-pre3",
+      "version_release_time": "2023-11-27T14:24:36+00:00",
+      "yarn": {
+        "version_id": "1.20.3-pre3",
+        "version_file_id": "1.20.3-pre3",
+        "version_release_time": "2023-11-27T14:24:36+00:00",
+        "separator": "+build.",
+        "build": 1,
+        "fabric_name": "1.20.3-pre3+build.1"
+      },
+      "jars": {
+        "client": {
+          "version_id": "1.20.3-pre3",
+          "version_file_id": "1.20.3-pre3",
+          "version_release_time": "2023-11-27T14:24:36+00:00",
+          "jar_key": "client",
+          "jar_sha1_meta": "676fa8b87075aa62bee8e3e70fbd0524a06c5621"
+        },
+        "server": {
+          "version_id": "1.20.3-pre3",
+          "version_file_id": "1.20.3-pre3",
+          "version_release_time": "2023-11-27T14:24:36+00:00",
+          "jar_key": "server",
+          "jar_sha1_meta": "3802cf61288841f29f0af0d7c73ab58094be34cd"
         }
       }
     }
